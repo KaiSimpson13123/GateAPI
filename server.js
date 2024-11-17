@@ -1,3 +1,11 @@
+/* 
+Cheers to ifatc.org/gates for all of the info.
+Please DM me @smacklepackle on discord for commercial use.
+
+:)
+
+*/
+
 const express = require('express');
 const axios = require('axios');
 const cheerio = require('cheerio');
